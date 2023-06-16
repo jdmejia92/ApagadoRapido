@@ -35,7 +35,6 @@ class Creating_apps_list:
             "SystemSettings",
             "TextInputHost",
             "ApplicationFrameHost",
-            "Code",
             "Name",
             "----",
         ]
